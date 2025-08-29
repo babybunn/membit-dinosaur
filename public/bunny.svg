@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <!-- Body -->
+        <path d="M20 60 Q50 80 80 60 Q50 90 20 60" fill="#8080ff"/>
+        <!-- Head -->
+        <circle cx="50" cy="50" r="30" fill="#8080ff"/>
+        <!-- Eyes -->
+        <circle cx="40" cy="45" r="5" fill="#000"/>
+        <circle cx="60" cy="45" r="5" fill="#000"/>
+        <!-- Ears -->
+        <path d="M30 30 Q40 0 50 30" fill="#8080ff"/>
+        <path d="M50 30 Q60 0 70 30" fill="#8080ff"/>
+    </g>
+</svg>

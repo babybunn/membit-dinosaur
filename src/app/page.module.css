@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+  background-color: #f0f0f0;
+}
+
+.offlineContainer,
+.onlineContainer {
+  text-align: center;
+}
+
+.offlineContainer h1,
+.onlineContainer h1 {
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.onlineContainer p {
+  color: #666;
+  font-size: 1.2rem;
+}
